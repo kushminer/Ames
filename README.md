@@ -37,9 +37,13 @@ Ames/
 ├── Ames_4_feature_engineering.ipynb     # Feature creation and selection
 ├── Ames_5_regression.ipynb              # Model training and evaluation
 ├── Ames_6_future_work.ipynb             # Future improvements and extensions
+├── Ames_7_extended_analysis.ipynb       # Extended analysis (neighborhood, seasonality, models)
 ├── Machine Learning Project Proposal.ipynb  # Project overview and methodology
 │
-└── README.md
+├── .gitignore                           # Git ignore patterns
+├── LICENSE                              # MIT License
+├── README.md                            # This file
+└── requirements.txt                     # Python dependencies
 ```
 
 ## Dataset Description
